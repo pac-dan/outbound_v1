@@ -1,0 +1,4 @@
+lead_id,first_name,last_name,phone,timezone,status,attempts,retry_at,assistantId
+L-1001,Aoife,Murphy,+359888123456,Europe/Sofia,new,0,,asst_xxxx
+L-1002,Sean,O'Connor,+353871112222,Europe/Dublin,new,0,,asst_xxxx
+L-1003,Maria,Ivanova,+359888654321,Europe/Sofia,new,0,,asst_xxxx
